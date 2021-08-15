@@ -1,1 +1,1 @@
-### blog frontend using rect and bootstrap
+### blog frontend using react and bootstrap
